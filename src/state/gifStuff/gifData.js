@@ -1,7 +1,7 @@
 
 
 
-const data = {
+const GifData = {
 "fixed_width_still":{
 "height":"200",
 "size":"322",
@@ -45,4 +45,4 @@ const data = {
 "width":"300",
 }
 }
-export default data
+export default GifData

@@ -3,7 +3,7 @@ import './App.css';
 
 
 function App(props) {
-  const gifs = data;
+  const gifList = data;
   const loading = false;
   const error ="";
 
